@@ -12,7 +12,7 @@ class Rpm extends React.Component {
              <h1>Reaction Process Machinery</h1>
          </div>
          
-         <div class="AMtext">
+         <div class="">
                 <h2 className="explain">As a system provider, we provide molds and trimmer technology as well as process and system solutions for manufacturing innovative components made from polyurethane or other reactive materials.
                                         
                 </h2>
