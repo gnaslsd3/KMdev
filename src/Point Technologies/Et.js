@@ -12,7 +12,7 @@ class Et extends React.Component {
              <h1>Extrusion Technology</h1>
          </div>
 
-         <div class="AMtext">
+         <div class="">
                 <h2 className="explain">We provide high-performance machines and systems along the entire value chain for manufacturing nearly all extruded plastic and rubber products.
                                         
                 </h2>
