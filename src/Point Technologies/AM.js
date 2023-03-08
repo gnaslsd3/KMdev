@@ -17,13 +17,13 @@ class AM extends React.Component {
 
 
 
-           <div class="AMtext">
+           <div class="">
            <h2 className="explain">Additive manufacturing is predestined for the production of geometrically complex components in small quantities.</h2>
            </div>
 
            <img className="photoclass" src="AM_process.png"></img>
 
-           <div class="AMtext">
+           <div class="">
                 <h2 className="explain">Production without material waste and infinite design possibilities - we bring these advantages of additive manufacturing from prototyping to the industrial series production of plastic components.
                                         Benefit from our cross-technology know-how in plastics processing. Together with our customers, we rethink system concepts and find efficient additive manufacturing solutions for their individual requirements.
                 </h2>
