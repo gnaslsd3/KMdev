@@ -12,7 +12,7 @@ class Imm extends React.Component {
              <h1>Injection Molding Machinery</h1>
          </div>
 
-         <div class="AMtext">
+         <div class="">
                 <h2 className="explain">With our hydraulic and all-electric injection molding machines, we are a high-performance partner for the realisation of all process variants and special processes.
                                         
                 </h2>
